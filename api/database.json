@@ -26,11 +26,11 @@
     },
     {
       "id": "d61beb31-34c4-453b-b621-47d197e82078",
-      "category": "SECOND",
+      "category": "FIRST",
       "question": "What is the chemical symbol for water?",
       "answer": "H2O",
       "tag": "Collaboration",
-      "updatedAt": "2024-02-16"
+      "updatedAt": "2024-02-20"
     },
     {
       "id": "73e8ba72-ccda-4e0f-8353-672c48cb15ca",
@@ -55,14 +55,6 @@
       "answer": "0",
       "tag": "Teamwork",
       "updatedAt": "2024-02-13"
-    },
-    {
-      "id": "726f",
-      "question": "hello",
-      "answer": "7",
-      "tag": "fdfdd",
-      "category": "FIRST",
-      "updatedAt": "2024-02-20"
     }
   ]
 }
