@@ -1,5 +1,22 @@
 # Système Leitner
 
+## Project Description
+
+
+
+## Technologies we used
+
+### Backend
+
+- [NodeJS](https://nodejs.org/) with [ExpressJS](https://expressjs.com/) for the api
+- [json-server](https://github.com/typicode/json-server/tree/v0) as fake database
+
+### Frontend
+
+- [ReactJS](https://react.dev/)
+- [Tanstack Router](https://github.com/TanStack/router) for routing
+- [Tanstack Query](https://github.com/TanStack/query) for fetching data
+
 ## Project installation
 
 ### Backend
