@@ -1,0 +1,68 @@
+{
+  "cards": [
+    {
+      "id": "aaeec67a-5de0-4357-9e66-b9a251da26e4",
+      "category": "FIRST",
+      "question": "What is the capital of France?",
+      "answer": "Paris",
+      "tag": "Teamwork",
+      "updatedAt": "2024-02-20"
+    },
+    {
+      "id": "e7a063fe-cd41-42e7-a842-2693643b978c",
+      "category": "SECOND",
+      "question": "How many continents are there?",
+      "answer": "7",
+      "tag": "Collaboration",
+      "updatedAt": "2024-02-19"
+    },
+    {
+      "id": "9e1ea823-3f07-45fc-8f67-29830a3dbc38",
+      "category": "THIRD",
+      "question": "What is 2 + 2?",
+      "answer": "4",
+      "tag": "Teamwork",
+      "updatedAt": "2024-02-19"
+    },
+    {
+      "id": "d61beb31-34c4-453b-b621-47d197e82078",
+      "category": "SECOND",
+      "question": "What is the chemical symbol for water?",
+      "answer": "H2O",
+      "tag": "Collaboration",
+      "updatedAt": "2024-02-16"
+    },
+    {
+      "id": "73e8ba72-ccda-4e0f-8353-672c48cb15ca",
+      "category": "SECOND",
+      "question": "How many days are in a week?",
+      "answer": "7",
+      "tag": "Teamwork",
+      "updatedAt": "2024-02-20"
+    },
+    {
+      "id": "0468c275-26da-4537-b440-34c575dd32fd",
+      "category": "FOURTH",
+      "question": "What is the largest planet in our solar system?",
+      "answer": "Jupiter",
+      "tag": "Collaboration",
+      "updatedAt": "2024-02-14"
+    },
+    {
+      "id": "69faec23-56e2-45a0-87a5-407452c24c5c",
+      "category": "FIFTH",
+      "question": "What is the freezing point of water (in Celsius)?",
+      "answer": "0",
+      "tag": "Teamwork",
+      "updatedAt": "2024-02-13"
+    },
+    {
+      "id": "726f",
+      "question": "hello",
+      "answer": "7",
+      "tag": "fdfdd",
+      "category": "FIRST",
+      "updatedAt": "2024-02-20"
+    }
+  ]
+}
